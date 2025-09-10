@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "tim023-wechat-arti-63"
+          project: "timredy-8888"
           entrypoint: "server/index.ts"
           root: ".output"
           
